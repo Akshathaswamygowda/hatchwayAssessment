@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.wrapper{
+    width: 100%;
+    height: 100%;
+    font-family: 'Raleway';
+}
+
+.circletag {
+    float: left;
+}
+
+.title{
+    font-weight: bold;
+}
+.studentdetails {
+    margin-left: 160px;
+    text-align: left;
+    font-family: 'Raleway';
+    
+}
+
+.details{
+    margin-left: 10px;
+    text-align: left;
+    font-family: 'Raleway';
+    font-size: 12px;
+}
+
+.search{
+    font-family: 'Raleway';   
+    font-size: 15px;
+    width: 100%;
+    height: 40px;
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: rgb(177, 174, 174);
+}
+
+.tagText{
+    font-family: 'Raleway';   
+    font-size: 15px;
+    width: 20%;
+    height: 40px;
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: rgb(177, 174, 174);
+}
